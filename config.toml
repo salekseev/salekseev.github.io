@@ -1,7 +1,7 @@
 baseurl = "https://salekseev.com/" # Hostname (and path) to the root.
 title = "~salekseev" # Site title.
 theme = "coder" # Set the theme.
-languagecode = "en-us" # The site’s language code.
+languagecode = "en-US" # The site’s language code.
 
 paginate = 20 # Default number of pages per page in pagination.
 canonifyurls = true # Enable to turn relative URLs into absolute.
