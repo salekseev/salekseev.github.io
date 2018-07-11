@@ -6,9 +6,19 @@
     <description>Recent content in Categories on ~salekseev</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Wed, 11 Jul 2018 13:42:37 -0400</lastBuildDate>
     
 	<atom:link href="https://salekseev.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Aws</title>
+      <link>https://salekseev.com/categories/aws/</link>
+      <pubDate>Wed, 11 Jul 2018 13:42:37 -0400</pubDate>
+      
+      <guid>https://salekseev.com/categories/aws/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Cobbler</title>
@@ -16,6 +26,15 @@
       <pubDate>Thu, 27 Feb 2014 11:04:00 -0500</pubDate>
       
       <guid>https://salekseev.com/categories/cobbler/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Development</title>
+      <link>https://salekseev.com/categories/development/</link>
+      <pubDate>Wed, 11 Jul 2018 13:42:37 -0400</pubDate>
+      
+      <guid>https://salekseev.com/categories/development/</guid>
       <description></description>
     </item>
     
@@ -70,6 +89,15 @@
       <pubDate>Thu, 27 Feb 2014 11:04:00 -0500</pubDate>
       
       <guid>https://salekseev.com/categories/pxe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Terraform</title>
+      <link>https://salekseev.com/categories/terraform/</link>
+      <pubDate>Wed, 11 Jul 2018 13:42:37 -0400</pubDate>
+      
+      <guid>https://salekseev.com/categories/terraform/</guid>
       <description></description>
     </item>
     

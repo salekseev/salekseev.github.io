@@ -6,10 +6,20 @@
     <description>Recent content in Posts on ~salekseev</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 26 Mar 2014 16:32:19 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 11 Jul 2018 13:42:37 -0400</lastBuildDate>
     
 	<atom:link href="https://salekseev.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Using nested maps in Terraform input variables</title>
+      <link>https://salekseev.com/posts/nested-maps-in-terraform-variables/</link>
+      <pubDate>Wed, 11 Jul 2018 13:42:37 -0400</pubDate>
+      
+      <guid>https://salekseev.com/posts/nested-maps-in-terraform-variables/</guid>
+      <description>Here&amp;rsquo;s my working terraform file:
+variable &amp;#34;create&amp;#34; {description = &amp;#34;Whether to the resources&amp;#34; default = true }variable &amp;#34;config&amp;#34; {type = &amp;#34;map&amp;#34; description = &amp;#34;Instances to create (map of maps keyed on &amp;#39;name&amp;#39;)&amp;#34; default = { &amp;#34;instance-01&amp;#34; = {instance_type = &amp;#34;t2.micro&amp;#34; } &amp;#34;instance-02&amp;#34; = {instance_type = &amp;#34;t2.nano&amp;#34; }}}data &amp;#34;template_file&amp;#34; &amp;#34;config_instance&amp;#34; {count = &amp;#34;${length(var.config)}&amp;#34; template = &amp;#34;${element(keys(var.config), count.index)}&amp;#34; }data &amp;#34;template_file&amp;#34; &amp;#34;config_instance_type&amp;#34; {count = &amp;#34;${length(var.config)}&amp;#34; template = &amp;#34;${lookup(var.config[element(keys(var.config), count.index)], &amp;#34;instance_type&amp;#34;)}&amp;#34; }data &amp;#34;aws_ami&amp;#34; &amp;#34;ubuntu&amp;#34; {most_recent = true filter {name = &amp;#34;name&amp;#34; values = [&amp;#34;ubuntu/images/hvm-ssd/ubuntu-bionic-18.</description>
+    </item>
     
     <item>
       <title>Using Apache Flume-NG to move binaries around</title>

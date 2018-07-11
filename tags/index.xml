@@ -6,9 +6,37 @@
     <description>Recent content in Tags on ~salekseev</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Wed, 11 Jul 2018 13:42:37 -0400</lastBuildDate>
     
 	<atom:link href="https://salekseev.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Hcl</title>
+      <link>https://salekseev.com/tags/hcl/</link>
+      <pubDate>Wed, 11 Jul 2018 13:42:37 -0400</pubDate>
+      
+      <guid>https://salekseev.com/tags/hcl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Json</title>
+      <link>https://salekseev.com/tags/json/</link>
+      <pubDate>Wed, 11 Jul 2018 13:42:37 -0400</pubDate>
+      
+      <guid>https://salekseev.com/tags/json/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Terraform</title>
+      <link>https://salekseev.com/tags/terraform/</link>
+      <pubDate>Wed, 11 Jul 2018 13:42:37 -0400</pubDate>
+      
+      <guid>https://salekseev.com/tags/terraform/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

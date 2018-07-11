@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://salekseev.com/posts/nested-maps-in-terraform-variables/</loc>
+    <lastmod>2018-07-11T13:42:37-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://salekseev.com/posts/2014-03-26-using-apache-flume-ng-to-move-binaries-around/</loc>
     <lastmod>2014-03-26T16:32:19-04:00</lastmod>
   </url>
@@ -17,13 +22,26 @@
   </url>
   
   <url>
+    <loc>https://salekseev.com/categories/aws/</loc>
+    <lastmod>2018-07-11T13:42:37-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://salekseev.com/categories/</loc>
+    <lastmod>2018-07-11T13:42:37-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://salekseev.com/categories/cobbler/</loc>
     <lastmod>2014-02-27T11:04:00-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://salekseev.com/categories/development/</loc>
+    <lastmod>2018-07-11T13:42:37-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -52,6 +70,18 @@
   </url>
   
   <url>
+    <loc>https://salekseev.com/tags/hcl/</loc>
+    <lastmod>2018-07-11T13:42:37-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://salekseev.com/tags/json/</loc>
+    <lastmod>2018-07-11T13:42:37-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://salekseev.com/categories/linux/</loc>
     <lastmod>2014-03-26T16:32:19-04:00</lastmod>
     <priority>0</priority>
@@ -59,7 +89,7 @@
   
   <url>
     <loc>https://salekseev.com/posts/</loc>
-    <lastmod>2014-03-26T16:32:19-04:00</lastmod>
+    <lastmod>2018-07-11T13:42:37-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -71,12 +101,25 @@
   
   <url>
     <loc>https://salekseev.com/tags/</loc>
+    <lastmod>2018-07-11T13:42:37-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://salekseev.com/tags/terraform/</loc>
+    <lastmod>2018-07-11T13:42:37-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://salekseev.com/categories/terraform/</loc>
+    <lastmod>2018-07-11T13:42:37-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://salekseev.com/</loc>
-    <lastmod>2014-03-26T16:32:19-04:00</lastmod>
+    <lastmod>2018-07-11T13:42:37-04:00</lastmod>
     <priority>0</priority>
   </url>
   
