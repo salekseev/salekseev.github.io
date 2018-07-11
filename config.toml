@@ -39,7 +39,7 @@ disqusShortname = "salekseev-com" # Enable or disable Disqus
 [[params.social]]
     name = "Twitter"
     weight = 2
-    url = "https://twitter.com/stas.alekseev/"
+    url = "https://twitter.com/stas_alekseev/"
 [[params.social]]
     name = "LinkedIn"
     weight = 3
