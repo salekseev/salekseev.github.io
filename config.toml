@@ -19,7 +19,7 @@ disqusShortname = "salekseev" # Enable or disable Disqus
     keywords = "blog,developer,personal" # Site keywords.
     avatarurl = "images/avatar.png" # Contain the path of the optionnal avatar in the static folder.
 
-    footercontent = "Enter a text here." # Add footer content
+    footercontent = "© Stas Alekseev, 2014 - 2018"
 
     # Whether you want to hide copyright and credits in the footer.
     hideCredits = true
