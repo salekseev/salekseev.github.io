@@ -1,9 +1,15 @@
 ---
-layout: post
-title: "Use nested maps in Terraform variables"
-date: 2018-07-11 14:04:00 -0500
-comments: true
-categories: [terraform, aws]
+categories:
+    - Development
+    - Terraform
+    - AWS
+date: 2018-07-11T13:42:37-04:00
+slug: nested-maps-in-terraform-variables
+tags:
+    - terraform
+    - hcl
+    - json
+title: Using nested maps in Terraform input variables
 ---
 
 Here's my working terraform file:
