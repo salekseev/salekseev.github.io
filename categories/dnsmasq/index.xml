@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dnsmasq on ~salekseev</title>
-    <link>http://salekseev.com/categories/dnsmasq/</link>
+    <link>https://salekseev.com/categories/dnsmasq/</link>
     <description>Recent content in Dnsmasq on ~salekseev</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 27 Feb 2014 11:04:00 -0500</lastBuildDate>
     
-	<atom:link href="http://salekseev.com/categories/dnsmasq/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://salekseev.com/categories/dnsmasq/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>PXE boot with DHCP-Proxy using DNSMASQ</title>
-      <link>http://salekseev.com/posts/2014-02-27-pxe-boot-with-dhcp-proxy-using-dnsmasq/</link>
+      <link>https://salekseev.com/posts/2014-02-27-pxe-boot-with-dhcp-proxy-using-dnsmasq/</link>
       <pubDate>Thu, 27 Feb 2014 11:04:00 -0500</pubDate>
       
-      <guid>http://salekseev.com/posts/2014-02-27-pxe-boot-with-dhcp-proxy-using-dnsmasq/</guid>
+      <guid>https://salekseev.com/posts/2014-02-27-pxe-boot-with-dhcp-proxy-using-dnsmasq/</guid>
       <description>The other day I was setting up a cobbler boot server in a network where I have no control over DHCP server. DHCP-Proxy to the rescue!
 I believe the minimum version of DNSMASQ required to function properly is at least 2.51 as it did not work with out of the box CentOS6 supplied version 2.48, I ended up using dnsmasq-2.65-5.el6.x86_64.rpm built by Mirantis.
 Here&amp;rsquo;s my working /etc/cobbler/dnsmasq.template file:

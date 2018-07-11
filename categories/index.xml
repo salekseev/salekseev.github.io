@@ -2,74 +2,74 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on ~salekseev</title>
-    <link>http://salekseev.com/categories/</link>
+    <link>https://salekseev.com/categories/</link>
     <description>Recent content in Categories on ~salekseev</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="http://salekseev.com/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://salekseev.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Cobbler</title>
-      <link>http://salekseev.com/categories/cobbler/</link>
+      <link>https://salekseev.com/categories/cobbler/</link>
       <pubDate>Thu, 27 Feb 2014 11:04:00 -0500</pubDate>
       
-      <guid>http://salekseev.com/categories/cobbler/</guid>
+      <guid>https://salekseev.com/categories/cobbler/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Dhcp</title>
-      <link>http://salekseev.com/categories/dhcp/</link>
+      <link>https://salekseev.com/categories/dhcp/</link>
       <pubDate>Thu, 27 Feb 2014 11:04:00 -0500</pubDate>
       
-      <guid>http://salekseev.com/categories/dhcp/</guid>
+      <guid>https://salekseev.com/categories/dhcp/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Dnsmasq</title>
-      <link>http://salekseev.com/categories/dnsmasq/</link>
+      <link>https://salekseev.com/categories/dnsmasq/</link>
       <pubDate>Thu, 27 Feb 2014 11:04:00 -0500</pubDate>
       
-      <guid>http://salekseev.com/categories/dnsmasq/</guid>
+      <guid>https://salekseev.com/categories/dnsmasq/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Flume Ng</title>
-      <link>http://salekseev.com/categories/flume-ng/</link>
+      <link>https://salekseev.com/categories/flume-ng/</link>
       <pubDate>Wed, 26 Mar 2014 16:32:19 -0400</pubDate>
       
-      <guid>http://salekseev.com/categories/flume-ng/</guid>
+      <guid>https://salekseev.com/categories/flume-ng/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hadoop</title>
-      <link>http://salekseev.com/categories/hadoop/</link>
+      <link>https://salekseev.com/categories/hadoop/</link>
       <pubDate>Wed, 26 Mar 2014 16:32:19 -0400</pubDate>
       
-      <guid>http://salekseev.com/categories/hadoop/</guid>
+      <guid>https://salekseev.com/categories/hadoop/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Linux</title>
-      <link>http://salekseev.com/categories/linux/</link>
+      <link>https://salekseev.com/categories/linux/</link>
       <pubDate>Wed, 26 Mar 2014 16:32:19 -0400</pubDate>
       
-      <guid>http://salekseev.com/categories/linux/</guid>
+      <guid>https://salekseev.com/categories/linux/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Pxe</title>
-      <link>http://salekseev.com/categories/pxe/</link>
+      <link>https://salekseev.com/categories/pxe/</link>
       <pubDate>Thu, 27 Feb 2014 11:04:00 -0500</pubDate>
       
-      <guid>http://salekseev.com/categories/pxe/</guid>
+      <guid>https://salekseev.com/categories/pxe/</guid>
       <description></description>
     </item>
     
