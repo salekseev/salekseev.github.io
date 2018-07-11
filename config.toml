@@ -1,4 +1,4 @@
-baseurl = "http://salekseev.com/" # Hostname (and path) to the root.
+baseurl = "https://salekseev.com/" # Hostname (and path) to the root.
 title = "~salekseev" # Site title.
 theme = "coder" # Set the theme.
 languagecode = "en-us" # The site’s language code.
