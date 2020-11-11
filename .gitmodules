@@ -1,7 +1,7 @@
-[submodule "themes/coder"]
-	path = themes/coder
-	url = https://github.com/luizdepra/hugo-coder.git
 [submodule "public"]
 	path = public
 	url = git@github.com:salekseev/salekseev.github.io.git
 	branch = master
+[submodule "themes/hugo-theme-console"]
+	path = themes/hugo-theme-console
+	url = https://github.com/mrmierzejewski/hugo-theme-console.git

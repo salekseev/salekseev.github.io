@@ -1,6 +1,6 @@
 baseurl = "https://salekseev.com/" # Hostname (and path) to the root.
 title = "~salekseev" # Site title.
-theme = "coder" # Set the theme.
+theme = "hugo-theme-console" # Set the theme.
 languagecode = "en-US" # The site’s language code.
 
 paginate = 20 # Default number of pages per page in pagination.
@@ -19,7 +19,7 @@ disqusShortname = "salekseev-com" # Enable or disable Disqus
     keywords = "blog,developer,personal" # Site keywords.
     avatarurl = "images/avatar.png" # Contain the path of the optionnal avatar in the static folder.
 
-    footercontent = "© Stas Alekseev, 2014 - 2018"
+    footercontent = "© Stas Alekseev, 2014 - 2020"
 
     # Whether you want to hide copyright and credits in the footer.
     hideCredits = true
